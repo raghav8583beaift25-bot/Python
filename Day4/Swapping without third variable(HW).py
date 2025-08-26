@@ -1,0 +1,7 @@
+A=int(input("Enter your First number :"))
+B=int(input("Enter your Second number :"))
+print(f"Before swapping the numbers are A={A} and B={B}")
+A=(A+B)
+B=(A-B)
+A=(A-B)
+print(f"After swapping the numbers are A={A} and B={B}")
