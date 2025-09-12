@@ -1,0 +1,6 @@
+A=int(input("Enter a integer :"))
+B=float(input("Enter a decimal :"))
+C=str(input("Enter a string :"))
+print(f"A={A} is a integer ")
+print(f"B={B} is a decimal ")
+print(f"C={C} is a string ")
